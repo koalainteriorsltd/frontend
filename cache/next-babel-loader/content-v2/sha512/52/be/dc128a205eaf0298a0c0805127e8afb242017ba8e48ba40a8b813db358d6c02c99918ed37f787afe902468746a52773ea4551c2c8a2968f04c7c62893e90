@@ -1,0 +1,1 @@
+{"ast":null,"code":"import ShopBR from \"./ShopBR\";\nexport { ShopBR };","map":null,"metadata":{},"sourceType":"module"}

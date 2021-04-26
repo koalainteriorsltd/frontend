@@ -1,0 +1,1 @@
+{"ast":null,"code":"import FooterOne from \"./FooterOne\";\nimport SubFooter from \"./SubFooter\";\nexport { FooterOne, SubFooter };","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from \"react\";\nimport SweetAlert from 'react-bootstrap-sweetalert';\n\nconst Preloader = ({\n  props\n}) => {\n  return __jsx(\"div\", {\n    className: \"preloader\"\n  });\n};\n\nexport default Preloader;","map":null,"metadata":{},"sourceType":"module"}

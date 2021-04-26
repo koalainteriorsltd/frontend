@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const ApiUrl = {\n  login: \"login\",\n  ProductCategories: \"products/categories\",\n  ProductsAll: \"products\",\n  CategoryProducts: \"products?category=\",\n  HomeBanner: \"manage_banner\",\n  HomeTestimonial: \"testimonial\"\n};","map":null,"metadata":{},"sourceType":"module"}

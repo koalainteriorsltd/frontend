@@ -1,0 +1,1 @@
+{"ast":null,"code":"import ProductRating from \"./ProductRating\";\nexport { ProductRating };","map":null,"metadata":{},"sourceType":"module"}
